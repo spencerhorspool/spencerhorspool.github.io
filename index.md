@@ -4,7 +4,7 @@ Welcome! I’m **Spencer Horspool**, a mechanical engineering designer offering 
 
 ---
 
-## 🔧 What I Offer
+## What I Offer
 
 ### 3D Design (CAD)
 - Custom part modeling
@@ -33,8 +33,8 @@ Welcome! I’m **Spencer Horspool**, a mechanical engineering designer offering 
 
 Feel free to reach out to discuss your project:
 
-📧 **Email:** spencer.horspool@gmail.com  
-📍 **Location:** Available for remote work in the U.S.  
+**Email:** spencer.horspool@gmail.com  
+**Location:** Available for remote work in the U.S.  
 
 ---
 
